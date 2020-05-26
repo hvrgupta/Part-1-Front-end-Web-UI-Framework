@@ -73,3 +73,35 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+#loginModal{
+    .modal-header{
+        background-color: $background-dark;
+        .modal-title {
+            color : floralwhite;
+    }
+    .close{
+        color : floralwhite;
+        z-index: 1;
+    }
+}
+    .modal-body{
+        background-color: $background-pale;
+    }
+}
+
+#reserveModal{
+    .modal-header{
+        background-color: $background-dark;
+        .modal-title {
+            color : floralwhite;
+    }
+    .close{
+        color : floralwhite;
+        z-index: 1;
+    }
+}
+    .modal-body{
+        background-color: $background-pale;
+    }
+}

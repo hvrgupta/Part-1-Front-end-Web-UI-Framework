@@ -52,3 +52,25 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#loginModal .modal-header {
+  background-color: #512DA8; }
+  #loginModal .modal-header .modal-title {
+    color: floralwhite; }
+  #loginModal .modal-header .close {
+    color: floralwhite;
+    z-index: 1; }
+
+#loginModal .modal-body {
+  background-color: #D1C4E9; }
+
+#reserveModal .modal-header {
+  background-color: #512DA8; }
+  #reserveModal .modal-header .modal-title {
+    color: floralwhite; }
+  #reserveModal .modal-header .close {
+    color: floralwhite;
+    z-index: 1; }
+
+#reserveModal .modal-body {
+  background-color: #D1C4E9; }
